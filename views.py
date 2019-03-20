@@ -5,6 +5,3 @@ def index(request):
 
 def contact(request):
     return render(request, 'personal/basic.html', {})
- 
-
- hi
